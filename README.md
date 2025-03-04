@@ -1,5 +1,8 @@
 # Sales-Report-Dashboard
 This report provides an overview of sales performance for the year 2022. It highlights revenue, total orders, average cost, and profit. The data is segmented by product categories and payment methods to provide deeper insights into sales trends.
+
+![Screenshot 2025-02-24 044044](https://github.com/user-attachments/assets/79268355-9ab7-41ac-88a8-0615129a76e3)
+
 # Sales Report 2022
 
 ## Overview
